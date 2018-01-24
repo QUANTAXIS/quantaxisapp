@@ -23,10 +23,10 @@
   </view>
 
   <view class="view_main_content">
-    <text style="font-size:28rpx;color:#333333">策略一号</text>
-    <text style="font-size:26rpx;color:#666666;  margin-top: 28rpx">预期年化收益</text>
+    <text style="font-size:28rpx;color:#333333">阿狸一号</text>
+    <text style="font-size:26rpx;color:#666666;  margin-top: 28rpx">当前收益</text>
     <view style="margin-top: 18rpx;flex-direction: row;">
-      <text style="font-size:52rpx;color:#ff7460;">16.00</text>
+      <text style="font-size:52rpx;color:#ff7460;">5.26</text>
       <text style="font-size:28rpx;color:#ff7460;margin-left:6rpx">%</text>
     </view>
     <text style="font-size:26rpx;color:#666666;  margin-top: 28rpx">上线日期: 2018-01-05</text>

@@ -1,7 +1,7 @@
 // pages/invest/invest.js
 Page({
   data: {
-    result: [{ "productType": "策略1号", "yearRate": "15.00", "productDesc": "日内做T/股票", "hasAward": "yes", "typeTerm": "3个月~12个月" }, { "productType": "策略2号", "yearRate": "6.00~11.00", "typeTerm": "1~12个月", "productDesc": "股票", "hasAward": "yes" }, { "productDesc": "期货", "yearRate": "5.00", "typeTerm": "随进随出", "hasAward": "no", "productType": "CTA" }, { "productDesc": "指数跟踪", "yearRate": "8.00", "typeTerm": "10天", "hasAward": "no", "productType": "股指增强型" }, { "productDesc": "期货/股票", "yearRate": "12.00", "typeTerm": "7天", "hasAward": "yes", "productType": "混合策略" }],
+    result: [{ "productType": "阿狸1号", "yearRate": "5.26", "productDesc": "日内做T/股票", "hasAward": "yes", "typeTerm": "2018-01-05" }, { "productType": "策略2号", "yearRate": "11.23", "typeTerm": "2017-03-08", "productDesc": "股票", "hasAward": "yes" }, { "productDesc": "期货", "yearRate": "55.02", "typeTerm": "2017-10-25", "hasAward": "no", "productType": "CTA" }, { "productDesc": "指数跟踪", "yearRate": "8.90", "typeTerm": "2018-01-20", "hasAward": "no", "productType": "股指增强型" }, { "productDesc": "期货/股票", "yearRate": "12.86", "typeTerm": "2017-09-22", "hasAward": "yes", "productType": "混合策略" }],
   },
 
   onLoad: function (options) {
