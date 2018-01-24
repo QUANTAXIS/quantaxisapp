@@ -23,7 +23,7 @@ Page({
   },
   gotoproperty:function(event){
     wx.redirectTo({
-      url: '../../property/property',
+      url: '../../property/property/property',
     })
   },
   gotsafecenter:function(event){
