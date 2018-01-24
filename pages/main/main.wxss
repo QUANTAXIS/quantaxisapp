@@ -1,0 +1,14 @@
+/* pages/main/main.wxss */
+
+.view_main_content {
+  border: #e4e4e4 1rpx solid;
+  text-align: center;
+  padding-top: 22rpx;
+  padding-bottom: 22rpx;
+  margin: 26rpx;
+  border-radius: 16rpx;
+  display: flex;
+ flex-direction: column;
+ 
+
+}
